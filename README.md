@@ -18,3 +18,13 @@ Custom Data Pipeline: Built a custom Python generator to handle inconsistent ima
 Real-time Prediction: Sub-second inference time.
 
 Mobile-Ready UI: Responsive design for field testing.
+
+
+
+"Data Scarcity & Custom Curation" High-quality datasets for specific agricultural freshness stages are scarce. To solve this, I built a custom dataset of 320+ images across three distinct biological stages:
+
+Fresh: Optimal peak ripeness, firm texture, uniform color.
+
+Unripe: Pre-mature stage, characterized by high chlorophyll content (green/yellow hues).
+
+Rotten: Post-consumer stage, showing fungal growth, bruising, and tissue degradation.
