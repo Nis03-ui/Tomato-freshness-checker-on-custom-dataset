@@ -1,4 +1,3 @@
-﻿# Tomato-freshness-checker-on-custom-dataset
 🍅 AI Tomato Freshness Checker
 A Full-Stack Computer Vision Application
 
